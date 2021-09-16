@@ -1,20 +1,11 @@
 # code-refactor
 
-In this project I refactored a website to meet accessibility standards, without changing the overall look or content of the website. I had to research accessibility standards to determine what is necessary to improve accessibility, review the code already in place, and then make appropriate changes. Lastly, I deployed the site using GitHub in order to be accessed using the link provided below.
+In this project, I refactored a website to meet accessibility standards, without changing the overall look or content of the website. I first researched accessibility standards to determine what is necessary to improve accessibility. I then reviewed the initial code and updated HTML elements to semantic HTML elements. I ensured HTML elements followed a logical structure. I also added alt attributes to the images provided for accessibility purposes. I followed a similar process to update the CSS file to consolidate and re-organize the styling content based on the semantic structure. Lastly, I deployed the updated site using GitHub, to be accessed using the link provided in the appropriate section below.
 
-## Getting Started
+## Snapshot
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them.
-
-```
-GitHub - to access the repository
-U
-
-```
+<img src="Horiseon1.JPG" alt="Screenshot of top half of refactored website">
+<img src="Horiseon2.JPG" alt="Screenshot of bottom half of refactored website">
 
 
 ## Built With
@@ -30,7 +21,7 @@ U
 * [https://kiri-smith.github.io/code-refactor/](#)
 
 
-## Authors
+## Author
 
 * Kiri Smith 
 
@@ -38,13 +29,11 @@ U
 - [https://github.com/kiri-smith](https://github.com/)
 - [https://www.linkedin.com/in/kiri-lynne-smith/](https://www.linkedin.com/)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the MIT License.
 
 ## Acknowledgments
 
-* Jerome Chenette: the creator of the initial site
-* My peers for help working through this first assignment
+* Jerome Chenette: the creator of the initial Horiseon site
+* My peers for answering questions to clarify the requirements of this first assignment
